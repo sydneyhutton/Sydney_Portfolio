@@ -15,7 +15,13 @@
 
 
 
-*Tools i'm learning to work with: Xcode, Github, Swift*
+*Tools i'm learning to work with: Xcode, Github, Swift*]
+
+
+![image](https://user-images.githubusercontent.com/101065676/156940907-18414805-6838-462d-84c2-2b139e8c4c68.png)
+
+![image](https://user-images.githubusercontent.com/101065676/156940903-71a29400-33e5-430c-bf7f-83ce10bf1804.jpeg)
+
 
 
 *project links*
